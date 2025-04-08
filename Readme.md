@@ -101,8 +101,8 @@ Tapez une entreprise dans le champ, les résultats s'afficheront sous forme styl
 
 ## 🧑‍💻 Auteur
 
-- 👤 Ton nom ou pseudo
-- 💻 GitHub : [@ton-utilisateur](https://github.com/ton-utilisateur)
+- 👤 Fouad MOUTAIROU
+- 💻 GitHub : https://github.com/Fouad-berry
 
 ---
 
